@@ -1,5 +1,8 @@
 # US-Visa-Approval-Prediction
 
+## Live material docs
+[Link](https://docs.google.com/document/d/1UFiHnyKRqgx8Lodsvdzu58LbVjdWHNf-uab2WmhE0A4/edit)
+
 ## Git commands
 ```bash
 git add .
