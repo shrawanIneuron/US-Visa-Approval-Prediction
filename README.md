@@ -28,15 +28,15 @@ pip install -r requirements.txt
 ```
 
 # workflow
-1.constant  
+1.constant      # important variables
 
-2.config_entity
+2.config_entity # All the folders and file paths
 
-3.artifact_entity
+3.artifact_entity # Output from the component
 
-4.component
+4.component # actual stage
 
-5.pipeline
+5.pipeline #Which stage runs first
 
 6.app.py / demo.py
 
